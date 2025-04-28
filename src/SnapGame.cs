@@ -47,6 +47,11 @@ namespace CardGames
 			}
 		}
 
+
+
+
+
+			//////w'l[gf[]]
 		/// <summary>
 		/// Draws the game to the Window.
 		/// </summary>
